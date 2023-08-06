@@ -20,8 +20,9 @@ NOTE: This project is done as part of google advanced data analytics course, and
 * Analyzed user behavior 
 * Performed EDA:
   * Discovering, Structuring, Cleaning, Joining, Validating and Presenting
-  * Understood data distributiona, and relationships between variables through plots.
+  * Understood data distributions, and relationships between variables through plots.
   * Created summary reports using Tableau
 * Performed a two-sample t test to analyze and determine whether there is a statistically significant difference between mean number of rides and device type – Android vs. iPhone.
-* 
+*
+*
 
