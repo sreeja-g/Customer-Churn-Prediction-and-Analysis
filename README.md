@@ -14,15 +14,14 @@ NOTE: This project is done as part of google advanced data analytics course, and
 * Model Building - Develop a machine learning (ML) model that better predicts user churn. 
 
 ## Work Done:
-**Tools and Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Scipy
+**Tools and Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Scipy, Tableau
 
-* Collected preliminary statistics
-* Analyzed user behavior 
-* Performed EDA:
-  * Discovering, Structuring, Cleaning, Joining, Validating and Presenting
-  * Understood data distributions, and relationships between variables through plots.
-  * Created summary reports using Tableau
-* Performed a two-sample t test to analyze and determine whether there is a statistically significant difference between mean number of rides and device type – Android vs. iPhone.
-*
-*
-
+* Gathered preliminary statistics.
+* Analyzed user behavior.
+* Conducted Exploratory Data Analysis (EDA):
+ * Discovered, structured, cleaned, joined, validated, and presented data.
+ * Gained insights into data distributions and relationships between variables using plots.
+ * Generated summary reports using Tableau.
+* Conducted a two-sample t-test to analyze and determine whether a statistically significant difference exists between the mean number of rides based on device type – Android vs. iPhone.
+* Engaged in feature selection, assessed features for multicollinearity, checked model assumptions, built, and evaluated a logistic regression model.
+* Executed feature engineering, model selection, and fine-tuning. Explored the performance of random forest and XGBoost models on the dataset.
