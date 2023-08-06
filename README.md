@@ -13,9 +13,8 @@ NOTE: This project is done as part of google advanced data analytics course, and
 * Apply user data to build and analyze a binomial logistic regression model.
 * Model Building - Develop a machine learning (ML) model that better predicts user churn. 
 
-## Methodology and Tools
-
-Tools and Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scipy
+## Work Done:
+**Tools and Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Scipy
 
 * Collected preliminary statistics
 * Analyzed user behavior 
