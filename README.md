@@ -14,7 +14,7 @@ NOTE: This project is done as part of google advanced data analytics course, and
 * Model Building - Develop a machine learning (ML) model that better predicts user churn. 
 
 ## Work Done:
-**Tools and Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Scipy, Tableau, sklearn, xgboost
+**Tools and Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Scipy, sklearn, xgboost, Tableau
 
 * Gathered preliminary statistics.
 * Analyzed user behavior.
